@@ -3,6 +3,15 @@
 
 A comprehensive Python-based tool for tracking and analyzing Facebook friends' online activity patterns. This project provides automated data collection, advanced analytics, and interactive visualizations to understand social media usage patterns.
 
+<img width="1675" height="521" alt="image" src="https://github.com/user-attachments/assets/523344be-71ac-43d8-a657-01132b96ff54" />
+
+
+<img width="1632" height="525" alt="image" src="https://github.com/user-attachments/assets/cf2bf060-fed5-42b2-b17f-1c1799ecbcff" />
+
+<img width="1572" height="515" alt="image" src="https://github.com/user-attachments/assets/372b7436-f476-4ef4-b35d-8653e7d9e178" />
+
+<img width="990" height="1082" alt="image" src="https://github.com/user-attachments/assets/b0a05a71-f9ca-4008-8ca0-17c33a4795e3" />
+
 ## ⚠️ Important Disclaimer
 
 This tool is for **educational and research purposes only**. Please ensure you:

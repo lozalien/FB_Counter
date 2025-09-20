@@ -1,4 +1,5 @@
 # Facebook Online Activity Tracker
+<img width="615" height="456" alt="Names" src="https://github.com/user-attachments/assets/14ac2568-04b9-425e-ad66-c1ce03ba01de" />
 
 A comprehensive Python-based tool for tracking and analyzing Facebook friends' online activity patterns. This project provides automated data collection, advanced analytics, and interactive visualizations to understand social media usage patterns.
 

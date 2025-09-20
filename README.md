@@ -5,7 +5,6 @@ A comprehensive Python-based tool for tracking and analyzing Facebook friends' o
 
 <img width="1675" height="521" alt="image" src="https://github.com/user-attachments/assets/523344be-71ac-43d8-a657-01132b96ff54" />
 
-
 <img width="1632" height="525" alt="image" src="https://github.com/user-attachments/assets/cf2bf060-fed5-42b2-b17f-1c1799ecbcff" />
 
 <img width="1572" height="515" alt="image" src="https://github.com/user-attachments/assets/372b7436-f476-4ef4-b35d-8653e7d9e178" />
@@ -20,6 +19,18 @@ This tool is for **educational and research purposes only**. Please ensure you:
 - Comply with Facebook's Terms of Service and your local privacy laws
 - Use this responsibly and ethically
 - Respect others' privacy and digital boundaries
+
+## QUICKSTART:
+1. Download FB_Counter.py & FaceBoard.py
+2. Ensure all dependencies are installed
+3. Run FB_Counter.py. This opens a fresh chrome profile that you need to log into facebook with.
+4. Close the browser and terminal that is running FB_Counter.py
+5. Run it again and it should start collecting names!
+6. You can run FaceBoard.py to view some related graphs like above. Keep in mind this is still a work in progress and FaceBoard.py is buggy.
+7. Please contribute to this project if you are interested!
+
+**Note:** This program only counts the contacts that appear in the small messenger pop-up at the bottom-right of the FB website. It takes samples every 5 seconds to record active users. The most active users that will appear at once is 17. The user list will periodically cycle through active users so typically only the most active users or most common contacts will appear more often. You must also have your status visible to others for this program to work. This is a proof of concept for educational purposes on how sharing sharing active FB status is not a safe practice for privacy!!!***
+
 
 ## 🚀 Features
 

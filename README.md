@@ -26,7 +26,7 @@ This tool is for **educational and research purposes only**. Please ensure you:
 3. Run FB_Counter.py. This opens a fresh chrome profile that you need to log into facebook with.
 4. Close the browser and terminal that is running FB_Counter.py
 5. Run it again and it should start collecting names!
-6. You can run FaceBoard.py to view some related graphs like above. Keep in mind this is still a work in progress and FaceBoard.py is buggy.
+6. You can run FaceBoard.py to view some related graphs like above. There are also some interesting charts in the .xls files in the /exports folder Keep in mind this is still a work in progress and FaceBoard.py is buggy.
 7. Please contribute to this project if you are interested!
 
 **Note:** This program only counts the contacts that appear in the small messenger pop-up at the bottom-right of the FB website. It takes samples every 5 seconds to record active users. The most active users that will appear at once is 17. The user list will periodically cycle through active users so typically only the most active users or most common contacts will appear more often. You must also have your status visible to others for this program to work. This is a proof of concept for educational purposes on how sharing sharing active FB status is not a safe practice for privacy!!!***

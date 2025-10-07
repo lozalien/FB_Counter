@@ -9,6 +9,7 @@ A comprehensive Python-based tool for tracking and analyzing Facebook friends' o
 
 <img width="1601" height="889" alt="image" src="https://github.com/user-attachments/assets/e9914b26-d215-47aa-93da-3e80fdb200d4" />
 
+<img width="1621" height="889" alt="image" src="https://github.com/user-attachments/assets/abe0d7ce-e036-4ee0-80cc-49077950ba0f" />
 
 
 
